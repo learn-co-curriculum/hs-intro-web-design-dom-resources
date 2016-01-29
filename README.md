@@ -8,4 +8,4 @@ Feeling frustrated? Take a look at these resources to alleviate any confusion ab
 - [Video: Channel9 - Understanding the DOM for Beginners](http://channel9.msdn.com/Series/Javascript-Fundamentals-Development-for-Absolute-Beginners/Understanding-the-Document-Object-Model-13)
 - [MDN - DOM Reference](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 - [OverAPI - DOM Cheatsheet Reference](http://overapi.com/html-dom/)
-<a href='https://learn.co/lessons/hs-intro-web-design-dom-resources' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-intro-web-design-dom-resources' title='DOM Resources'>DOM Resources</a> on Learn.co and start learning to code for free.</p>
